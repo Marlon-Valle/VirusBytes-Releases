@@ -10,7 +10,7 @@ Bienvenido al repositorio oficial de distribución y actualizaciones automática
 
 * **Versión actual:** `v1.0.0`
 * **Sistema operativo:** Windows 10 / Windows 11 (x64)
-* **SHA-256 oficial del instalador:** `cd8f136d87f15c5e70a4cccb3155b9de42bd665b071accb898c8e486eae7eec5`
+* **SHA-256 oficial del instalador:** `662a48b8839a7764c337cd4a508f168e620751efbc9abcf5212e1c88b7189f39`
 
 ---
 
